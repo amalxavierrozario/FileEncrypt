@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Hello©"
 bold=$(tput bold)
 red=$(tput setaf 1)
 yellow=$(tput setaf 3)
