@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "Hello©"
+echo "Hello© World"
 bold=$(tput bold)
 red=$(tput setaf 1)
 yellow=$(tput setaf 3)
