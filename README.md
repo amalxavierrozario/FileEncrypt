@@ -1,4 +1,4 @@
-## FileEncrypt Version 1.1
+## FileEncrypt Version 1.2
 
 The FileEncrypt is bash script cmdline program to encrypt files using openssl aes256-cbc
 
