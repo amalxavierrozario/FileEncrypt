@@ -2,7 +2,7 @@
 
 The FileEncrypt is bash script cmdline program to encrypt files using openssl aes256-cbc
 
-### Requirements:
+### U need to install
  
 - In Redhat 
 ```
